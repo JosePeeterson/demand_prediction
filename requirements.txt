@@ -1,0 +1,5 @@
+numpy
+pandas
+sklearn
+tensorflow-gpu==2.0.0
+fire
